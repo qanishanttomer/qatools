@@ -2,4 +2,4 @@
 
 QA Tools list 
 
-This repo includes all the testing tools help in testing softwares
+This repo includes all the testing tools help in testing softwares, please refer Wiki page for reference.
